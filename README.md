@@ -1,4 +1,8 @@
 # bumblebot
 Binary connected system
 
-In progress
+Todo list
+
+
+- [ ] for an empty checkbox
+- [x] for a checked checkbox
